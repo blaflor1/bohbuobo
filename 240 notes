@@ -1,0 +1,14 @@
+new Returns pointer * !!!!!
+heap memory must be de allocated at end of program
+All 
+
+
+ampersand & in parameters means pass by reference
+
+ofstream stream;
+
+fptr = stream.open("filename");
+
+fptr << "hello \n";
+
+fptr.close();
