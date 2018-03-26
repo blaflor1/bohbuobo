@@ -1,0 +1,38 @@
+CS240 Data Structures
+Spring 2017 
+Project 1 README FILE
+
+Due Date: 22 February 2017
+Submission Date: 22 February 2017
+Author(s): Beau LaFlore
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+
+
+BUGS:
+There are memory leaks :(
+
+FILES:
+README
+LinkedList.cpp/.h
+AntHill.h/.cpp
+Ant.h/.cpp
+project1.cpp/.h
+anthill.log
+
+TO RUN:
+all instructions are included in the makefile.
+
+EXTRA CREDIT:
+Describe any extra credit you may have completed here
+
+BIBLIOGRAPHY:
+
+
+MISCELLANEOUS:
+I am considering revising the project since there is a memory leak
+
+

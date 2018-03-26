@@ -1,0 +1,31 @@
+CS 240 Data Structures
+Spring 2017
+Program 2 README FILE
+
+Due Date: 4/20/17
+Submission Date: 4/20/17
+Author(s): Beau LaFlore
+
+PERCENT COMPLETE:
+100%
+
+PARTS THAT ARE NOT COMPLETE:
+Passed all tests
+
+BUGS:
+Known bugs
+
+FILES:
+README, Card.h/cpp, Deck.h/cpp. Heap.h/cpp, Player.h/cpp, program2.cpp, Table.h/cpp, players/2.txt
+
+TO RUN:
+make run/ make checkmem
+
+EXTRA CREDIT:
+Not this time
+
+BIBLIOGRAPHY:
+
+
+MISCELLANEOUS:
+

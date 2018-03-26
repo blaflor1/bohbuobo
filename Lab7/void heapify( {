@@ -1,0 +1,29 @@
+void heapify( {
+	for(i = (size-2)/2; i >=0; i--) {
+	siftDown(i); //move value down until its larger than both of its children
+	}
+}
+\
+
+siftDown(int i) {
+	if( i < 0 || i >= n)
+		return;
+	while(isleaf(i)) {
+		child = 2i+1
+		if(array[child] > array[child+1] ) {
+		child = child+1
+		}
+		if(array[i] < array[child]) swap(i, child);
+		else 
+		return;
+		i = child;
+	}
+}
+
+
+#define MAX(x, y) if(x > y) return x; else return y;
+
+int main() {
+	MAX(1,2);
+	if(1 > 2) x; else y;
+}

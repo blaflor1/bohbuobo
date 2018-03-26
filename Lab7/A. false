@@ -1,0 +1,8 @@
+A. false
+B. False
+
+Look up Dram vs SRAM
+
+d. Store cannot be writen to memory, understand out of order concepts
+
+e. two threads will start using registers of the rename tables (rename is a private resource)

@@ -1,0 +1,7 @@
+Floating point format
+
+x = (-1)^S x (1+fraction) x 2^(Exponent-Bias)
+
+S = sign bit
+
+Normalize significand: 1 <= significand < 2.0

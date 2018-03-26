@@ -1,0 +1,6 @@
+#ifndef _Hash_H
+#define _Hash_H
+#include <iostream>
+#include <string>
+
+using namespace std;

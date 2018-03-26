@@ -1,0 +1,19 @@
+Graphs:
+
+Simple Grapggs
+- no self loops
+- only 1 edge between 2 vertices 
+G = (V, E) V: finite set
+if cardinality is V = E - sparse
+if cardinality of E = v^2 - dense graph
+
+-length of path - distance between 2 points
+- traverse/search
+-remove v or e
+insert v or e
+determine if it has a cycle
+adjacency
+- empty
+Vertices -- Data, edges
+
+Edges - weighted, vertices connecting, direction

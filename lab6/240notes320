@@ -1,0 +1,22 @@
+240 3/20
+
+traverse(node n) {
+	if n != null {
+	traverse(left)
+	do something()
+	traverse(right)
+	}
+}
+
+
+post order - children 
+
+in order - visits in sorted order
+
+pre order - visits parents first
+
+-std=c++14 need in make file
+
+auto iter = queue.begin();
+
+nullptr is literal NULL address
